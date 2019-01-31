@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Timers, stopwatch.</Description>
+    <PackageTags>timers, stopwatch</PackageTags>
+  </PropertyGroup>
+
+</Project>
